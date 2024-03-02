@@ -1,6 +1,8 @@
 # inst_ui
 
 A new Flutter project.
+![image](https://github.com/AtalibAgAlmousleck/flutter-instagram-ui/assets/87047616/52324cb8-5fec-4a9b-94fb-c8ac995060c4)
+
 
 ## Getting Started
 
